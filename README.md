@@ -5,7 +5,7 @@
 
 
 <!-- PROJECT TITLE  -->
-<h1 align="left">Image Web Scraping</h1>
+<h1 align="left">Images Web Scraping</h1>
 
 
 <!-- ABOUT THE PROJECT -->
